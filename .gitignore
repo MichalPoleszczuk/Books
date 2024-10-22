@@ -1,0 +1,4 @@
+creds.py
+*.log
+__pycache__/
+
